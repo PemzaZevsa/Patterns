@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|c:\\users\\pemza\\source\\repos\\dotnetpatterns\\reactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|solutionrelative:reactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\reactorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|solutionrelative:reactorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\reactorpattern\\reactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|solutionrelative:reactorpattern\\reactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\reactorpattern\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|solutionrelative:reactorpattern\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\reactorpattern\\concreteeventhandlerb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|solutionrelative:reactorpattern\\concreteeventhandlerb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\reactorpattern\\concreteeventhandlera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC44B4B6-FD94-4988-8E19-44767B892FCE}|ReactorPattern\\ReactorPattern.csproj|solutionrelative:reactorpattern\\concreteeventhandlera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 235,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcreteEventHandlerA.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\ConcreteEventHandlerA.cs",
+              "RelativeDocumentMoniker": "ReactorPattern\\ConcreteEventHandlerA.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\ConcreteEventHandlerA.cs",
+              "RelativeToolTip": "ReactorPattern\\ConcreteEventHandlerA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:20:43.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteEventHandlerB.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\ConcreteEventHandlerB.cs",
+              "RelativeDocumentMoniker": "ReactorPattern\\ConcreteEventHandlerB.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\ConcreteEventHandlerB.cs",
+              "RelativeToolTip": "ReactorPattern\\ConcreteEventHandlerB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:20:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "ReactorPattern\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\IEventHandler.cs",
+              "RelativeToolTip": "ReactorPattern\\IEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:20:06.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reactor.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\Reactor.cs",
+              "RelativeDocumentMoniker": "ReactorPattern\\Reactor.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\Reactor.cs",
+              "RelativeToolTip": "ReactorPattern\\Reactor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:19:38.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ReactorPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\ReactorPattern\\Program.cs",
+              "RelativeToolTip": "ReactorPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:19:23.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Program.cs",
+              "RelativeDocumentMoniker": "Reactor\\Program.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Program.cs",
+              "RelativeToolTip": "Reactor\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:27:52.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 156,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

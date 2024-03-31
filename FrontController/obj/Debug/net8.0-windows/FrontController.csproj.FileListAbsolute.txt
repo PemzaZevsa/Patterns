@@ -1,0 +1,16 @@
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\bin\Debug\net8.0-windows\FrontController.exe
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\bin\Debug\net8.0-windows\FrontController.deps.json
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\bin\Debug\net8.0-windows\FrontController.runtimeconfig.json
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\bin\Debug\net8.0-windows\FrontController.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\bin\Debug\net8.0-windows\FrontController.pdb
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\FrontController.Form1.resources
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\FrontController.csproj.GenerateResource.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\FrontController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\FrontController.AssemblyInfoInputs.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\FrontController.AssemblyInfo.cs
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\FrontController.csproj.CoreCompileInputs.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\FrontController.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\refint\FrontController.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\FrontController.pdb
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\FrontController.genruntimeconfig.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontController\obj\Debug\net8.0-windows\ref\FrontController.dll

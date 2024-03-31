@@ -1,0 +1,2 @@
+C:\Users\Pemza\source\repos\DotNETPatterns\Pattern2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Pemza\source\repos\DotNETPatterns\Pattern2\obj\Debug\net8.0-windows\Pattern2_MarkupCompile.cache

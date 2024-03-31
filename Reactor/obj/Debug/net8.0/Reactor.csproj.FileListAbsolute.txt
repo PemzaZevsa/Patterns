@@ -1,0 +1,14 @@
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\bin\Debug\net8.0\Reactor.exe
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\bin\Debug\net8.0\Reactor.deps.json
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\bin\Debug\net8.0\Reactor.runtimeconfig.json
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\bin\Debug\net8.0\Reactor.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\bin\Debug\net8.0\Reactor.pdb
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.AssemblyInfoInputs.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.AssemblyInfo.cs
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.csproj.CoreCompileInputs.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\refint\Reactor.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.pdb
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.genruntimeconfig.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\ref\Reactor.dll

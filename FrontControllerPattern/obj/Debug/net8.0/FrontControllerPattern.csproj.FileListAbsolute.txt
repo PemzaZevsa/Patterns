@@ -1,0 +1,14 @@
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\bin\Debug\net8.0\FrontControllerPattern.exe
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\bin\Debug\net8.0\FrontControllerPattern.deps.json
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\bin\Debug\net8.0\FrontControllerPattern.runtimeconfig.json
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\bin\Debug\net8.0\FrontControllerPattern.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\bin\Debug\net8.0\FrontControllerPattern.pdb
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\obj\Debug\net8.0\FrontControllerPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\obj\Debug\net8.0\FrontControllerPattern.AssemblyInfoInputs.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\obj\Debug\net8.0\FrontControllerPattern.AssemblyInfo.cs
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\obj\Debug\net8.0\FrontControllerPattern.csproj.CoreCompileInputs.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\obj\Debug\net8.0\FrontControllerPattern.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\obj\Debug\net8.0\refint\FrontControllerPattern.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\obj\Debug\net8.0\FrontControllerPattern.pdb
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\obj\Debug\net8.0\FrontControllerPattern.genruntimeconfig.cache
+C:\Users\Pemza\source\repos\DotNETPatterns\FrontControllerPattern\obj\Debug\net8.0\ref\FrontControllerPattern.dll
