@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\reactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|c:\\users\\pemza\\source\\repos\\dotnetpatterns\\reactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|solutionrelative:reactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\reactor\\reactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|c:\\users\\pemza\\source\\repos\\dotnetpatterns\\reactor\\reactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|solutionrelative:reactor\\reactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\reactor\\concreteeventhandlerb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|c:\\users\\pemza\\source\\repos\\dotnetpatterns\\reactor\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|solutionrelative:reactor\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|c:\\users\\pemza\\source\\repos\\dotnetpatterns\\reactor\\concreteeventhandlerb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|solutionrelative:reactor\\concreteeventhandlerb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|c:\\users\\pemza\\source\\repos\\dotnetpatterns\\reactor\\concreteeventhandlera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|solutionrelative:reactor\\concreteeventhandlera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|c:\\users\\pemza\\source\\repos\\dotnetpatterns\\reactor\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|solutionrelative:reactor\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|c:\\users\\pemza\\source\\repos\\dotnetpatterns\\reactor\\synchronouseventdemultiplexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52481078-9002-4FB9-91E6-0521FE3AB3B5}|Reactor\\Reactor.csproj|solutionrelative:reactor\\synchronouseventdemultiplexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 235,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Reactor.cs",
-              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Reactor.cs",
-              "RelativeDocumentMoniker": "Reactor\\Reactor.cs",
-              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Reactor.cs",
-              "RelativeToolTip": "Reactor\\Reactor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T19:38:58.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Program.cs",
               "RelativeDocumentMoniker": "Reactor\\Program.cs",
               "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Program.cs",
               "RelativeToolTip": "Reactor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T14:27:52.593Z",
+              "WhenOpened": "2024-04-02T07:25:50.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SynchronousEventDemultiplexer.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\SynchronousEventDemultiplexer.cs",
+              "RelativeDocumentMoniker": "Reactor\\SynchronousEventDemultiplexer.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\SynchronousEventDemultiplexer.cs",
+              "RelativeToolTip": "Reactor\\SynchronousEventDemultiplexer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:25:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reactor.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Reactor.cs",
+              "RelativeDocumentMoniker": "Reactor\\Reactor.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Reactor.cs",
+              "RelativeToolTip": "Reactor\\Reactor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:25:50.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "Reactor\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\IEventHandler.cs",
+              "RelativeToolTip": "Reactor\\IEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:25:49.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Event.cs",
+              "RelativeDocumentMoniker": "Reactor\\Event.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\Event.cs",
+              "RelativeToolTip": "Reactor\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:25:49.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteEventHandlerA.cs",
+              "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\ConcreteEventHandlerA.cs",
+              "RelativeDocumentMoniker": "Reactor\\ConcreteEventHandlerA.cs",
+              "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\ConcreteEventHandlerA.cs",
+              "RelativeToolTip": "Reactor\\ConcreteEventHandlerA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:25:47.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ConcreteEventHandlerB.cs",
               "DocumentMoniker": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\ConcreteEventHandlerB.cs",
               "RelativeDocumentMoniker": "Reactor\\ConcreteEventHandlerB.cs",
               "ToolTip": "C:\\Users\\Pemza\\source\\repos\\DotNETPatterns\\Reactor\\ConcreteEventHandlerB.cs",
               "RelativeToolTip": "Reactor\\ConcreteEventHandlerB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T19:37:59.231Z",
+              "WhenOpened": "2024-04-02T07:25:48.125Z",
               "EditorCaption": ""
             }
           ]

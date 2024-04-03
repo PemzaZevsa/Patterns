@@ -12,3 +12,4 @@ C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\refint\React
 C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.pdb
 C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.genruntimeconfig.cache
 C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\ref\Reactor.dll
+C:\Users\Pemza\source\repos\DotNETPatterns\Reactor\obj\Debug\net8.0\Reactor.sourcelink.json
